@@ -1,0 +1,2 @@
+Bibliographie
+- Provost & Fawcett, Data Science for Business, 2013
