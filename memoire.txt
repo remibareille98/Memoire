@@ -6,3 +6,6 @@ Ce mémoire étudie comment l'intelligence artificielle transforme le quotidien 
 
 Chapitre 1 - État de l'art
 Les premiers outils d'IA appliqués à la donnée sont apparus dans les années 2010.
+
+Chapitre 2 - Méthodologie
+Une enquête a été menée auprès de 30 data analysts.
