@@ -1,2 +1,3 @@
 Bibliographie
 - Provost & Fawcett, Data Science for Business, 2013
+- Davenport, Competing on Analytics, 2007
