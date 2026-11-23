@@ -3,3 +3,6 @@ Titre : L'impact de l'IA sur le métier de data analyst
 
 Introduction
 Ce mémoire étudie comment l'intelligence artificielle transforme le quotidien des data analysts.
+
+Chapitre 1 - État de l'art
+Les premiers outils d'IA appliqués à la donnée sont apparus dans les années 2010.
