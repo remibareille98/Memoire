@@ -9,3 +9,6 @@ Les premiers outils d'IA appliqués à la donnée sont apparus dans les années 
 
 Chapitre 2 - Méthodologie
 Une enquête a été menée auprès de 30 data analysts.
+
+Conclusion
+L'IA ne remplace pas le data analyst : elle transforme son métier.
